@@ -1,0 +1,13 @@
+{
+  "name": "vue-lite-scroll",
+  "version": "1.0.0",
+  "description": "A lightweight Vue component for scrolling content (with sexy scrollbars).",
+  "main": "dist/VueLiteScroll.js",
+  "repository": "https://github.com/tserkov/vue-lite-scroll",
+  "author": "tserkov <james.churchard@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6"
+  }
+}
